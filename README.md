@@ -5,7 +5,7 @@
 
 📫 How to reach me: vkirichenkoam@gmail.com
 
-📄 Know about my experiences (CV): [https://drive.google.com/file/d/1RmaKKqPujHOibatO49iTG3kmk9Tm7qfx/view?usp=sharing](https://drive.google.com/file/d/1RmaKKqPujHOibatO49iTG3kmk9Tm7qfx/view?usp=sharing)
+📄 Know about my experiences (CV): [https://drive.google.com/file/d/18FrGZndP-YKKpq6KbhtN0CrFiLmTdWqa/view?usp=drivesdk](https://drive.google.com/file/d/18FrGZndP-YKKpq6KbhtN0CrFiLmTdWqa/view?usp=drivesdk)
 
 <h3 align="left">Front-end:</h3>
 <p align="left"> 
