@@ -24,6 +24,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/> </a>  
   
   <a href="https://gsap.com/" target="_blank" rel="noreferrer"><img src="https://gsap.com/community/uploads/monthly_2020_03/tweenmax.png.cf27916e926fbb328ff214f66b4c8429.png" alt='gsap' width="40" height="40" /></a>
+  <a href="https://zod.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/colinhacks/zod/blob/main/logo.svg" alt='gsap' width="40" height="40" /></a>
 
 </p>
 
