@@ -5,7 +5,7 @@
 
 📫 How to reach me: vkirichenkoam@gmail.com
 
-📄 Know about my experiences (CV): [EN](https://drive.google.com/file/d/18FrGZndP-YKKpq6KbhtN0CrFiLmTdWqa/view?usp=drivesdk) [RU](https://drive.google.com/file/d/1hrozSl3xt-LEHMgZFWRSGtTalXF0dPWG/view?usp=drivesdk)
+📄 Know about my experience (CV): [RU](https://drive.google.com/file/d/1hrozSl3xt-LEHMgZFWRSGtTalXF0dPWG/view?usp=drivesdk)
 <h2></h2>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="react" width="40" height="40"/</a> 
